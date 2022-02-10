@@ -13,7 +13,7 @@ def populate():
         {'title': 'Official Python Tutorial',
          'url': 'http://docs.python.org/3/tutorial',
          'views': 5},
-        {'title': 'How to think like a Computer Scientist',
+        {'title': 'How to Think like a Computer Scientist',
          'url': 'http://www.greenteapress.com/thinkpython/',
          'views': 34},
         {'title': 'Learn Python in 10 Minutes',
